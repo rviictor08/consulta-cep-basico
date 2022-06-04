@@ -1,0 +1,39 @@
+*{
+    text-align: center;
+    margin-top: 150px;
+}
+
+h1 {
+    margin-bottom: -145px;
+}
+
+label{
+    font-family: 'Roboto Slab', serif;
+    color: #fff;
+    text-align: center;
+}
+
+.button {
+    background-color: #ff0000;
+    font-family: 'Roboto Slab', serif;
+    border: none;
+}
+
+.text {
+    padding: 0 20px;
+}
+
+.endereco{
+    font-family: 'Roboto Slab', serif;
+    color: #fff;
+    margin-top: 46px;
+}
+
+.body {
+    background-color: #000000;
+    margin-left: -58px;
+    font-family: 'Roboto Slab', serif;
+    color: #fff;
+    margin-bottom: -150px;
+    text-align: center;
+}
